@@ -20,7 +20,7 @@ class MyHomePage extends StatelessWidget {
                 width: 100,
                 height: 100,
               ),
-            ),
+            ), 
             Container(
               margin: const EdgeInsets.only(top: 10.0),
               child: const Text(
