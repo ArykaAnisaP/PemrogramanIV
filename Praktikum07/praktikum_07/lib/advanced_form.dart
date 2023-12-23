@@ -160,7 +160,7 @@ class _MyAdvancedFormState extends State<MyAdvancedForm> {
             },
           ),
         ),
-                 Center(
+         Center(
           child: ElevatedButton(
             style: ButtonStyle(
               backgroundColor: MaterialStateProperty.all(_currentColor),
